@@ -1,0 +1,13 @@
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\bin\Debug\LbryImport.exe.manifest
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\bin\Debug\LbryImport.application
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\bin\Debug\LbryImport.exe
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\bin\Debug\LbryImport.pdb
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\bin\Debug\LbryImport.xml
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.Form1.resources
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.Resources.resources
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.vbproj.GenerateResource.Cache
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.exe.manifest
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.application
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.exe
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.xml
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\LBRY\obj\Debug\LbryImport.pdb

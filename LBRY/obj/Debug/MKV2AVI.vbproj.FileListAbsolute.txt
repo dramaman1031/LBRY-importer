@@ -1,0 +1,13 @@
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.exe
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.xml
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.pdb
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\bin\Debug\PQDFrontEnd.exe.manifest
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\bin\Debug\PQDFrontEnd.application
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\bin\Debug\PQDFrontEnd.exe
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\bin\Debug\PQDFrontEnd.pdb
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\bin\Debug\PQDFrontEnd.xml
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.Form1.resources
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.Resources.resources
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\MKV2AVI.vbproj.GenerateResource.Cache
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.exe.manifest
+C:\Users\Tj\Documents\Visual Studio 2008\Projects\MKV2AVI\obj\Debug\PQDFrontEnd.application

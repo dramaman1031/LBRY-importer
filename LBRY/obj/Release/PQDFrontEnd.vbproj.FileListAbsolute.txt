@@ -1,0 +1,14 @@
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\bin\Release\PQDFrontEnd.exe
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\bin\Release\PQDFrontEnd.pdb
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\bin\Release\PQDFrontEnd.xml
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\ResolveAssemblyReference.cache
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.Form1.resources
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.Resources.resources
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.vbproj.GenerateResource.Cache
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.exe
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.xml
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.pdb
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\bin\Release\PQDFrontEnd.exe.manifest
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\bin\Release\PQDFrontEnd.application
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.exe.manifest
+\\vfs11\users11\admindziekant\Visual Studio 2008\Projects\PQDFrontEnd\PQDFrontEnd\obj\Release\PQDFrontEnd.application
